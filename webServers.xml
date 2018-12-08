@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e3696f8f-e855-4bcf-ae13-b72f989801b9" name="djangostack-1-vm" url="http://35.202.253.154">
+        <fileTransfer host="35.202.253.154" port="22" privateKey="C:\Users\rtafn\.ssh\google_compute_engine" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
